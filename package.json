@@ -1,6 +1,6 @@
 {
   "name": "@kne/prompts-frontend-libs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "前端组件库开发辅助提示词集合，包含国际化、TypeScript 类型声明、文档生成、示例编写等常用任务的 AI 提示词模板",
   "files": [
     "prompts"
